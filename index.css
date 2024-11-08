@@ -1,0 +1,9 @@
+body{
+    padding: 0px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: left;
+}
+.left{
+    text-align: left;
+}
